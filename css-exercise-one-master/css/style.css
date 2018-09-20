@@ -4,7 +4,7 @@ body{
 }
 
 nav {
-  background color: green;
+  background-color: green;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -19,7 +19,6 @@ section {
 h1 {
   font-family: sans-serif;
   font-size: 2em;
-  background-color: green;
 }
 
 .example, h3 {
@@ -33,6 +32,27 @@ h3 {
 
 .element {
   background-color: Red;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.element2 {
+  background-color: Yellow;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.element3 {
+  background-color: Green;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.element4 {
+  background-color: Orange;
   height: 100px;
   margin: 10px 0;
   width: 100%;
