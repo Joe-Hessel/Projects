@@ -13,8 +13,9 @@ body {
   width: 90%;
 }
 
+.preview {height: 300px;}
+
 div {
-  background-color: #000000;
   float: left;
   width: 100%;
 }
